@@ -1,0 +1,40 @@
+body 
+{
+    background-image: url('back1.jpg');
+}
+#mymenu
+{
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    text-align: right;
+}
+#mymenu ul li 
+{
+    display: inline-block;
+    padding: 12px;
+}
+#data
+{
+    margin-top: 200px;
+}
+table 
+{
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    box-shadow: 20px 20px 20px white;
+}
+.t1
+{
+    border-radius: 30px;
+}
+.B
+{
+    width: 100px;
+    height: 40px;
+    background: linear-gradient(red, black);
+    color: white;
+}
+.B:hover
+{
+    background: linear-gradient(black, red);
+}
